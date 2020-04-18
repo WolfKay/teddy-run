@@ -1,0 +1,18 @@
+{
+  "name": "teddy-run",
+  "version": "1.0.0",
+  "description": "ludum dare first challenge video game",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kaywlf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "melonjs": "^7.1.1",
+    "phaser": "^3.11.0",
+    "pixi.js": "^5.0.0-rc",
+    "socket.io": "^2.3.0"
+  }
+}
