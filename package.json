@@ -13,6 +13,6 @@
     "melonjs": "^7.1.1",
     "phaser": "^3.11.0",
     "pixi.js": "^5.0.0-rc",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   }
 }
