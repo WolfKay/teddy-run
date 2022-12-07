@@ -9,7 +9,7 @@
   "author": "kaywlf",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "melonjs": "^7.1.1",
     "phaser": "^3.11.0",
     "pixi.js": "^5.0.0-rc",
