@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "melonjs": "^7.1.1",
-    "phaser": "^3.11.0",
+    "phaser": "^3.55.2",
     "pixi.js": "^5.0.0-rc",
     "socket.io": "^2.3.0"
   }
